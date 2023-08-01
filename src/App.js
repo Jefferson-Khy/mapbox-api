@@ -5,7 +5,7 @@ import "@mapbox/mapbox-gl-geocoder/dist/mapbox-gl-geocoder.css";
 import * as turf from "@turf/turf";
 
 mapboxgl.accessToken =
-  "pk.eyJ1IjoibXJwcm9udG8iLCJhIjoiY2xiYXZvOHByMTlkZDNvcnZhNjhyZWdkdiJ9.mk29Rk9d7x9fntJADzcRxg";
+  "public access token here";
 
 export default function App() {
   const mapContainer = useRef(null);
